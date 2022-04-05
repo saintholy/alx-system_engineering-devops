@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'find . -type d ! -path . -print | wc - 1' >> 11-directories
+echo 'find . -type d ! -path . -print | wc - 1' 
